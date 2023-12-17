@@ -1,4 +1,4 @@
-# [Child Mind Institute - Detect Sleep States 40位解法]([https://www.kaggle.com/tubotubo](https://www.kaggle.com/competitions/child-mind-institute-detect-sleep-states/discussion/459648))
+# [Child Mind Institute - Detect Sleep States 40位解法](https://www.kaggle.com/tubotubo](https://www.kaggle.com/competitions/child-mind-institute-detect-sleep-states/discussion/459648)
 
 ## 2023年12月 Child Mind Institute - Detect Sleep States 1877人中40位ソロ銀メダル
 
